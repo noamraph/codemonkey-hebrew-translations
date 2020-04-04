@@ -1,5 +1,7 @@
 # codemonkey-hebrew-translations
-Hebrew audio translation for codemonkey words
+Hebrew audio translation for codemonkey words.
+
+Used for the chrome extension at https://github.com/noamraph/codemonkey-hebrew-translate.
 
 Notes for me for recording:
 
